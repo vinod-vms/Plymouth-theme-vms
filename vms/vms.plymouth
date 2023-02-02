@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=vms
+Description= A theme that shows animation at start up.
+Comment=created By Vinod Mathew Sebastian(@vinod-vms)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/vms
+ScriptFile=/usr/share/plymouth/themes/vms/vms.script
+
